@@ -1,0 +1,24 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "JavaScript Fundamental Question Challenge",
+  "main": "main",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mellie422/JavaScript-Basic-Skills.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Skills",
+    "Quiz"
+  ],
+  "author": "Mellisa Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mellie422/JavaScript-Basic-Skills/issues"
+  },
+  "homepage": "https://github.com/Mellie422/JavaScript-Basic-Skills#readme"
+}
